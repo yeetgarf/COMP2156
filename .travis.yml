@@ -1,6 +1,0 @@
-   dist: focal
-   language: node_js
-   rvm:
-    - 2.2
-    - jruby
-   perforce_test_path: /main
