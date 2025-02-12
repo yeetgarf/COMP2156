@@ -9,7 +9,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://yeetgarf.github.io/comp2156",
+  "homepage": "https://yeetgarf.github.io/COMP2156/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yeetgarf/comp2156.git"
